@@ -1,5 +1,7 @@
 # Documentation & Explanation.
 
+Original source: http://web.archive.org/web/20170725102800/http://psx.padua.org/gte.txt
+
 Disclaimer.
 --------------------------------------------------------------------------
 This document is a collection of all info on the GTE i could find and my
@@ -993,5 +995,3 @@ doomed@c64.org <- corrections/additions     latest update -> psx.rules.org
 --------------------------------------------------------------------------
 If you miss anything that was in the previous version please mail me.
 --------------------------------------------------------------------------
-
-Original source: http://web.archive.org/web/20170725102800/http://psx.padua.org/gte.txt
