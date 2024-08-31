@@ -1,0 +1,26 @@
+--------------------Configuration: bin2src - Win32 Release--------------------
+Begining build with project "E:\psx\bin2src\bin2src.dsp", at root.
+Active configuration is Win32 (x86) Console Application (based on Win32 (x86) Console Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/bin2src.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c "
+			"Win32 Resource Compiler" with flags "/l 0x809 /d "NDEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"Release/bin2src.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/bin2src.pdb" /machine:I386 /out:"Release/bin2src.exe" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\WINDOWS\TEMP\RSPA383.TMP" with contents </nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/bin2src.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\psx\bin2src\bin2src.c"
+>
+Creating command line "xicl.exe @C:\WINDOWS\TEMP\RSPA383.TMP" 
+Creating temp file "C:\WINDOWS\TEMP\RSPA384.TMP" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/bin2src.pdb" /machine:I386 /out:"Release/bin2src.exe" 
+.\Release\bin2src.obj>
+Creating command line "xilink.exe @C:\WINDOWS\TEMP\RSPA384.TMP" 
+Compiling...
+bin2src.c
+Linking...
+
+
+
+bin2src.exe - 0 error(s), 0 warning(s)
