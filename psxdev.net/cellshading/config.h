@@ -1,0 +1,18 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+//#define DEBUG 2
+
+#define SCREEN_XRES		320
+#define SCREEN_YRES		240
+#define SCREEN_DITHER	0
+
+#define SCREEN_CENTERX	(SCREEN_XRES/2)
+#define SCREEN_CENTERY (SCREEN_YRES/2)
+
+#define OT_LENGTH	10
+#define OT_ENTRIES	1<<OT_LENGTH
+#define PACKETMAX	2048
+#define PACKETMAX2	PACKETMAX*24
+
+#endif

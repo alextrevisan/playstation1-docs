@@ -1,0 +1,8 @@
+# Created from "marilyn.dxf" by dxf2rsd(v2.81) -quad1 -g -sc 8 -back at 10:34 08/07/114
+@RSD940102
+PLY=marilyn.ply
+MAT=marilyn.mat
+GRP=marilyn.grp
+# Number of Texture Files
+NTEX=1
+TEX[0]=MARITEX.TIM
